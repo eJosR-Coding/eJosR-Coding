@@ -1,8 +1,7 @@
 ### Hi there, I'm Joseph Rodriguez 👋
 <img src="imagen_2022-07-13_155447690.png" width="500px">
 <h3 align="left">
- <img src="https://img.icons8.com/color/26/000000/source-code.png"/>Working Tools Used</h3>
- 
+ <img src="https://img.icons8.com/color/26/000000/source-code.png"/>Knowledge and tools</h3>
 
 | **Programming Languages** |![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://res.cloudinary.com/practicaldev/image/fetch/s--KR6jSVNe--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Java-ED8B00%3Fstyle%3Dfor-the-badge%26logo%3Djava%26logoColor%3Dwhite)
  :--- | :---
