@@ -1,7 +1,20 @@
 ### Hi there, I'm Joseph Rodriguez 👋
 <img src="imagen_2022-07-13_155447690.png" width="500px">
 <h3 align="left">
- <img src="https://img.icons8.com/color/26/000000/source-code.png"/>Knowledge and tools</h3>
+
+##I'm really into IT world
+<h3 align="center">A normal trilingual and self-taught developer</h3>
+
+- 🔭 Personal project **PyguessY**
+
+- 🌱 I’m currently learning **Python, Java, JS and Cybersecurity**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/joseph-rodriguez-55a24b241/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="joseph rodriguez" height="30" width="40" /></a>
+</p>
+
+<img src="https://img.icons8.com/color/26/000000/source-code.png"/>Knowledge and tools</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
