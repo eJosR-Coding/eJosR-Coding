@@ -7,7 +7,7 @@
 
 - 🔭 Personal project **PyguessY**
 
-- 🌱 I’m currently learning **Python, Java, JS and Cybersecurity**
+- 🌱 I’m currently learning **C++, Flutter and Cybersecurity stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
