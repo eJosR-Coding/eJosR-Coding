@@ -5,7 +5,7 @@
 ## I'm really into IT world
 <h3 align="center">A normal trilingual and self-taught developer</h3>
 
-- 🔭 Personal project **PyguessY**
+- 🔭 Personal project **FirstEye**
 
 - 🌱 I’m currently learning **C++, Flutter and Cybersecurity stuff**
 
