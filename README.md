@@ -7,7 +7,7 @@
 
 - 🔭 Personal project **FirstEye**
 
-- 🌱 I’m currently learning **C++, Flutter and Cybersecurity stuff**
+- 🌱 I’m currently learning **C++ and React.js**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
