@@ -5,9 +5,7 @@
 ## I'm really into IT world
 <h3 align="center">A normal trilingual and self-taught developer</h3>
 
-- 🔭 Personal project **FirstEye**
-
-- 🌱 I’m currently learning **C++ and React.js**
+- 🌱 I’m working in some dumb projects
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
