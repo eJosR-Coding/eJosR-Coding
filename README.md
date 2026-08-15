@@ -28,7 +28,7 @@ face enrollment and embedding-based verification (stub fallback for local dev).
 
 ---
 
-#### [FourLayer](https://fourlayer-landing.vercel.app/) · `Astro` `TypeScript`
+#### [FourLayer](https://fourlayer-landing.vercel.app/) 
 
 Architecture ideas kept dying in whiteboards and diagram DSLs no one maintained.
 Built one semantic C4 model as the source of truth — Context and Container views,
