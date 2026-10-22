@@ -9,13 +9,13 @@ Currently: building [FourLayer](https://fourlayer.dev), a visual C4 editor, now 
 
 ### Work
 
-**[FourLayer](https://fourlayer.dev)** · `private repo`
+**[FourLayer](https://fourlayer.dev)**
 Architecture diagrams drift because every view is drawn by hand. FourLayer keeps one semantic C4 model and renders Context, Container, Component and Deployment views from it. It imports and exports Mermaid and Structurizr DSL, exports PNG and SVG, and supports Google sign-in with private cloud workspaces (Supabase) and owner / editor / viewer sharing.
 
 **[GitBell](https://github.com/eJosR-Coding/gitbell)** · `Tauri 2` `Rust` `TypeScript`
 GitHub activity is easy to miss when coding agents commit and open PRs for you. GitBell is a tray app that sends native desktop notifications on Linux and Windows. It polls with ETags to stay within API limits, keeps the token in the OS keyring, and flags commits and PRs from coding agents by trailers, bot logins and branch prefixes. `gitbell notify` lets scripts and agents send their own notifications. UI in English and Spanish. [v0.3.0](https://github.com/eJosR-Coding/gitbell/releases/latest) adds signed auto-updates; installers for Linux (deb, rpm, AppImage) and Windows.
 
-**[Aura Audit](https://aura.fourlayer.dev)** · `Next.js` `FastAPI` · `private repo`
+**[Aura Audit](https://aura.fourlayer.dev)** · `Next.js` `FastAPI`
 Enter a GitHub username and get a timed, captioned replay of the profile plus a shareable verdict. The score comes from deterministic rules, not from a model.
 
 **[LoL RAG Chatbot](https://github.com/eJosR-Coding/lol-chatbot)** · `FastAPI` `sentence-transformers` `Astro` `Evaluation`
