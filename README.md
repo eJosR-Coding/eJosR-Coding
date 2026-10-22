@@ -9,7 +9,7 @@ Currently: building [FourLayer](https://fourlayer.dev), a visual C4 editor, now 
 
 ### Work
 
-**[FourLayer](https://fourlayer.dev)**
+**[FourLayer](https://fourlayer.dev)** · `SvelteKit` `Supabase` `TypeScript`
 Architecture diagrams drift because every view is drawn by hand. FourLayer keeps one semantic C4 model and renders Context, Container, Component and Deployment views from it. It imports and exports Mermaid and Structurizr DSL, exports PNG and SVG, and supports Google sign-in with private cloud workspaces (Supabase) and owner / editor / viewer sharing.
 
 **[GitBell](https://github.com/eJosR-Coding/gitbell)** · `Tauri 2` `Rust` `TypeScript`
